@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1536741612140,940,Wikipedia,200,OK,Thread group 1 1-1,text,true,,76911,121,10,10,813,0,706
+1536741612482,615,Wikipedia,200,OK,Thread group 1 1-3,text,true,,76911,121,10,10,485,0,378
+1536741612279,820,Wikipedia,200,OK,Thread group 1 1-2,text,true,,76911,121,10,10,688,0,581
+1536741612685,578,Wikipedia,200,OK,Thread group 1 1-4,text,true,,76911,121,10,10,418,0,347
+1536741612873,576,Wikipedia,200,OK,Thread group 1 1-5,text,true,,76911,121,10,10,417,0,345
+1536741613068,574,Wikipedia,200,OK,Thread group 1 1-6,text,true,,76911,121,10,10,415,0,340
+1536741613268,572,Wikipedia,200,OK,Thread group 1 1-7,text,true,,76911,121,10,10,416,0,338
+1536741613467,594,Wikipedia,200,OK,Thread group 1 1-8,text,true,,76911,121,10,10,427,0,352
+1536741613672,590,Wikipedia,200,OK,Thread group 1 1-9,text,true,,76911,121,10,10,433,0,358
+1536741613862,584,Wikipedia,200,OK,Thread group 1 1-10,text,true,,76911,121,10,10,428,0,355
+1536741616093,690,Wikipedia English,200,OK,Thread group 1 1-3,text,true,,81126,135,10,10,540,0,440
+1536741616093,693,Wikipedia English,200,OK,Thread group 1 1-1,text,true,,81126,135,10,10,535,0,442
+1536741616109,775,Wikipedia English,200,OK,Thread group 1 1-2,text,true,,81126,135,10,10,588,0,496
+1536741616264,670,Wikipedia English,200,OK,Thread group 1 1-4,text,true,,81126,135,10,10,510,0,424
+1536741616452,677,Wikipedia English,200,OK,Thread group 1 1-5,text,true,,81126,135,10,10,508,0,425
+1536741616654,903,Wikipedia English,200,OK,Thread group 1 1-6,text,true,,81126,135,10,10,498,0,412
+1536741616842,1000,Wikipedia English,200,OK,Thread group 1 1-7,text,true,,81126,135,10,10,542,0,417
+1536741617076,822,Wikipedia English,200,OK,Thread group 1 1-8,text,true,,81126,135,10,10,754,0,365
+1536741617263,914,Wikipedia English,200,OK,Thread group 1 1-9,text,true,,81126,135,10,10,741,0,645
+1536741617450,975,Wikipedia English,200,OK,Thread group 1 1-10,text,true,,81126,135,10,10,806,0,719
+1536741619794,709,Wikipedia Italiano,200,OK,Thread group 1 1-3,text,true,,106167,142,10,10,552,0,373
+1536741619794,710,Wikipedia Italiano,200,OK,Thread group 1 1-1,text,true,,106167,142,10,10,564,0,366
+1536741619888,688,Wikipedia Italiano,200,OK,Thread group 1 1-2,text,true,,106167,142,10,10,496,0,346
+1536741619934,722,Wikipedia Italiano,200,OK,Thread group 1 1-4,text,true,,106167,142,10,10,547,0,414
+1536741620122,701,Wikipedia Italiano,200,OK,Thread group 1 1-5,text,true,,106167,142,10,10,491,0,406
+1536741620565,703,Wikipedia Italiano,200,OK,Thread group 1 1-6,text,true,,106167,142,10,10,502,0,417
+1536741620847,690,Wikipedia Italiano,200,OK,Thread group 1 1-7,text,true,,106167,142,10,10,508,0,421
+1536741620894,678,Wikipedia Italiano,200,OK,Thread group 1 1-8,text,true,,106167,142,10,10,488,0,384
+1536741621175,754,Wikipedia Italiano,200,OK,Thread group 1 1-9,text,true,,106167,142,10,10,546,0,453
+1536741621425,677,Wikipedia Italiano,200,OK,Thread group 1 1-10,text,true,,106167,142,10,10,489,0,406
+1536741623519,663,Wikipedia Espanol,200,OK,Thread group 1 1-1,text,true,,86934,207,10,10,458,0,380
+1536741623519,676,Wikipedia Espanol,200,OK,Thread group 1 1-3,text,true,,86934,207,9,9,458,0,381
+1536741623576,624,Wikipedia Espanol,200,OK,Thread group 1 1-2,text,true,,86934,207,9,9,443,0,355
+1536741623653,619,Wikipedia Espanol,200,OK,Thread group 1 1-4,text,true,,86934,207,7,7,499,0,376
+1536741623825,667,Wikipedia Espanol,200,OK,Thread group 1 1-5,text,true,,86934,207,6,6,477,0,387
+1536741624274,593,Wikipedia Espanol,200,OK,Thread group 1 1-6,text,true,,86934,207,5,5,419,0,346
+1536741624573,624,Wikipedia Espanol,200,OK,Thread group 1 1-8,text,true,,86934,207,4,4,427,0,351
+1536741624540,658,Wikipedia Espanol,200,OK,Thread group 1 1-7,text,true,,86934,207,4,4,446,0,373
+1536741624934,594,Wikipedia Espanol,200,OK,Thread group 1 1-9,text,true,,86934,207,2,2,426,0,351
+1536741625106,683,Wikipedia Espanol,200,OK,Thread group 1 1-10,text,true,,86934,207,1,1,509,0,432

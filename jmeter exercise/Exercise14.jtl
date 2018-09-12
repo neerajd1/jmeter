@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1536741760546,924,Wikipedia,200,OK,Thread group 1 1-1,text,true,,76911,121,1,1,779,0,691
+1536741761479,656,Wikipedia English,200,OK,Thread group 1 1-1,text,true,,81126,135,1,1,446,0,371
+1536741762137,519,Wikipedia Italiano,200,OK,Thread group 1 1-1,text,true,,106168,142,1,1,331,0,257
+1536741762658,651,Wikipedia Espanol,200,OK,Thread group 1 1-1,text,true,,86934,207,1,1,479,0,404

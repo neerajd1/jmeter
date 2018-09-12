@@ -1,0 +1,65 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1536741658660,986,Wikipedia,200,OK,Thread group 1 1-2,text,true,,76911,121,4,4,830,0,722
+1536741658660,1187,Wikipedia,200,OK,Thread group 1 1-1,text,true,,76911,121,4,4,829,0,723
+1536741658660,1189,Wikipedia,200,OK,Thread group 1 1-3,text,true,,76911,121,4,4,826,0,722
+1536741658660,1189,Wikipedia,200,OK,Thread group 1 1-4,text,true,,76911,121,4,4,826,0,722
+1536741659860,589,Wikipedia English,200,OK,Thread group 1 1-2,text,true,,81126,135,4,4,427,0,353
+1536741659860,590,Wikipedia English,200,OK,Thread group 1 1-1,text,true,,81126,135,4,4,423,0,350
+1536741659860,622,Wikipedia English,200,OK,Thread group 1 1-3,text,true,,81126,135,4,4,456,0,380
+1536741659860,641,Wikipedia English,200,OK,Thread group 1 1-4,text,true,,81126,135,4,4,432,0,358
+1536741660503,656,Wikipedia Italiano,200,OK,Thread group 1 1-2,text,true,,106167,142,4,4,468,0,393
+1536741660503,660,Wikipedia Italiano,200,OK,Thread group 1 1-4,text,true,,106167,142,4,4,473,0,397
+1536741660503,662,Wikipedia Italiano,200,OK,Thread group 1 1-3,text,true,,106167,142,4,4,473,0,395
+1536741660504,666,Wikipedia Italiano,200,OK,Thread group 1 1-1,text,true,,106166,142,4,4,469,0,393
+1536741661172,617,Wikipedia Espanol,200,OK,Thread group 1 1-4,text,true,,86934,207,4,4,436,0,362
+1536741661172,619,Wikipedia Espanol,200,OK,Thread group 1 1-2,text,true,,86934,207,4,4,440,0,368
+1536741661172,622,Wikipedia Espanol,200,OK,Thread group 1 1-1,text,true,,86934,207,4,4,458,0,376
+1536741661172,645,Wikipedia Espanol,200,OK,Thread group 1 1-3,text,true,,86934,207,4,4,456,0,373
+1536741661795,438,Wikipedia,200,OK,Thread group 1 1-1,text,true,,76911,121,4,4,233,0,158
+1536741661790,445,Wikipedia,200,OK,Thread group 1 1-4,text,true,,76911,121,4,4,237,0,162
+1536741661792,533,Wikipedia,200,OK,Thread group 1 1-2,text,true,,76911,121,4,4,329,0,150
+1536741661817,527,Wikipedia,200,OK,Thread group 1 1-3,text,true,,76911,121,4,4,332,0,142
+1536741662234,436,Wikipedia English,200,OK,Thread group 1 1-1,text,true,,81126,135,4,4,228,0,153
+1536741662326,432,Wikipedia English,200,OK,Thread group 1 1-2,text,true,,81126,135,4,4,220,0,146
+1536741662345,433,Wikipedia English,200,OK,Thread group 1 1-3,text,true,,81126,135,4,4,215,0,143
+1536741662236,566,Wikipedia English,200,OK,Thread group 1 1-4,text,true,,81126,135,4,4,356,0,158
+1536741662671,461,Wikipedia Italiano,200,OK,Thread group 1 1-1,text,true,,106167,142,4,4,227,0,146
+1536741662759,465,Wikipedia Italiano,200,OK,Thread group 1 1-2,text,true,,106167,142,4,4,231,0,158
+1536741663132,120,Wikipedia Espanol,200,OK,Thread group 1 1-1,text,true,,86934,207,4,4,74,0,0
+1536741662779,577,Wikipedia Italiano,200,OK,Thread group 1 1-3,text,true,,106167,142,4,4,331,0,149
+1536741663253,110,Wikipedia,200,OK,Thread group 1 1-1,text,true,,76911,121,4,4,79,0,0
+1536741662802,575,Wikipedia Italiano,200,OK,Thread group 1 1-4,text,true,,106167,142,4,4,328,0,151
+1536741663364,120,Wikipedia English,200,OK,Thread group 1 1-1,text,true,,81126,135,4,4,83,0,0
+1536741663485,109,Wikipedia Italiano,200,OK,Thread group 1 1-1,text,true,,106167,142,4,4,73,0,0
+1536741663225,452,Wikipedia Espanol,200,OK,Thread group 1 1-2,text,true,,86934,207,4,4,228,0,154
+1536741663678,102,Wikipedia,200,OK,Thread group 1 1-2,text,true,,76911,121,4,4,73,0,0
+1536741663378,470,Wikipedia Espanol,200,OK,Thread group 1 1-4,text,true,,86934,207,4,4,243,0,158
+1536741663779,112,Wikipedia English,200,OK,Thread group 1 1-2,text,true,,81126,135,4,4,73,0,0
+1536741663357,544,Wikipedia Espanol,200,OK,Thread group 1 1-3,text,true,,86934,207,4,4,333,0,153
+1536741663892,111,Wikipedia Italiano,200,OK,Thread group 1 1-2,text,true,,106167,142,4,4,74,0,0
+1536741664004,116,Wikipedia Espanol,200,OK,Thread group 1 1-2,text,true,,86934,207,4,4,73,0,0
+1536741663594,538,Wikipedia Espanol,200,OK,Thread group 1 1-1,text,true,,86934,207,4,4,324,0,147
+1536741663901,423,Wikipedia,200,OK,Thread group 1 1-3,text,true,,76911,121,4,4,219,0,147
+1536741663847,536,Wikipedia,200,OK,Thread group 1 1-4,text,true,,76911,121,4,4,333,0,151
+1536741664325,107,Wikipedia English,200,OK,Thread group 1 1-3,text,true,,81126,135,4,4,83,0,0
+1536741664434,113,Wikipedia Italiano,200,OK,Thread group 1 1-3,text,true,,106168,142,4,4,72,0,0
+1536741664132,433,Wikipedia,200,OK,Thread group 1 1-1,text,true,,76911,121,4,4,227,0,154
+1536741664121,486,Wikipedia,200,OK,Thread group 1 1-2,text,true,,76911,121,4,4,220,0,147
+1536741664549,116,Wikipedia Espanol,200,OK,Thread group 1 1-3,text,true,,86934,207,4,4,71,0,0
+1536741664665,106,Wikipedia,200,OK,Thread group 1 1-3,text,true,,76911,121,4,4,75,0,0
+1536741664384,578,Wikipedia English,200,OK,Thread group 1 1-4,text,true,,81126,135,4,4,372,0,178
+1536741664608,441,Wikipedia English,200,OK,Thread group 1 1-2,text,true,,81126,135,4,4,221,0,149
+1536741664566,550,Wikipedia English,200,OK,Thread group 1 1-1,text,true,,81126,135,4,4,343,0,165
+1536741664772,640,Wikipedia English,200,OK,Thread group 1 1-3,text,true,,81126,135,4,4,324,0,145
+1536741664963,574,Wikipedia Italiano,200,OK,Thread group 1 1-4,text,true,,106168,142,4,4,331,0,149
+1536741665050,619,Wikipedia Italiano,200,OK,Thread group 1 1-2,text,true,,106168,142,4,4,361,0,151
+1536741665117,569,Wikipedia Italiano,200,OK,Thread group 1 1-1,text,true,,106168,142,4,4,330,0,147
+1536741665413,460,Wikipedia Italiano,200,OK,Thread group 1 1-3,text,true,,106168,142,4,4,226,0,150
+1536741665538,451,Wikipedia Espanol,200,OK,Thread group 1 1-4,text,true,,86934,207,4,4,236,0,156
+1536741665669,552,Wikipedia Espanol,200,OK,Thread group 1 1-2,text,true,,86934,207,4,4,334,0,159
+1536741665686,548,Wikipedia Espanol,200,OK,Thread group 1 1-1,text,true,,86934,207,3,3,332,0,149
+1536741665874,432,Wikipedia Espanol,200,OK,Thread group 1 1-3,text,true,,86934,207,2,2,217,0,145
+1536741665990,529,Wikipedia,200,OK,Thread group 1 1-4,text,true,,76911,121,1,1,323,0,144
+1536741666520,427,Wikipedia English,200,OK,Thread group 1 1-4,text,true,,81126,135,1,1,219,0,145
+1536741666947,121,Wikipedia Italiano,200,OK,Thread group 1 1-4,text,true,,106168,142,1,1,74,0,0
+1536741667068,109,Wikipedia Espanol,200,OK,Thread group 1 1-4,text,true,,86933,207,1,1,74,0,0
